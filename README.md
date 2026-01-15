@@ -52,9 +52,8 @@ ANNProject/
 ├── prediction.ipynb            # Prediction examples & testing
 ├── scalers.pickle              # StandardScaler for feature scaling
 ├── label_encoder_gender.pkl    # Gender encoder
-├── onehot_encoder_geo.pkl      # Geography encoder
-├── scaler.pkl                  # Additional scaler
-└── logs/                       # TensorFlow event logs for monitoring
+├── onehot_encoder_geo.pkl      # Geography encoder 
+└── scaler.pkl                  # Additional scaler
 ```
 
 ## 🚀 Getting Started
@@ -161,3 +160,4 @@ This project is for educational and business analytics purposes.
 
 **Last Updated**: January 2026
 **Status**: Active & Running ✅
+
